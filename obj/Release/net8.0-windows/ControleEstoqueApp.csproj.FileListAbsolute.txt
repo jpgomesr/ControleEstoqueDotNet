@@ -1,0 +1,16 @@
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.exe
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.deps.json
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.runtimeconfig.json
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.dll
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\bin\Release\net8.0-windows\ControleEstoqueApp.pdb
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.Form1.resources
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.csproj.GenerateResource.cache
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.AssemblyInfoInputs.cache
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.AssemblyInfo.cs
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.csproj.CoreCompileInputs.cache
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.dll
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\refint\ControleEstoqueApp.dll
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.pdb
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ControleEstoqueApp.genruntimeconfig.cache
+C:\Users\joao_pg_rodrigues\source\repos\ControleEstoqueApp\ControleEstoqueApp\obj\Release\net8.0-windows\ref\ControleEstoqueApp.dll
